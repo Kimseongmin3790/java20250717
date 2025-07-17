@@ -21,7 +21,7 @@ public class Switch_2 {
 				System.out.println("C 학점");
 			break;
 			case 6:
-				System.out.println("D 학점");
+				System.out.println("D  학점");
 				break;
 			default:
 				System.out.println("F 학점");
